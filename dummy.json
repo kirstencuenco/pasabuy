@@ -1,6 +1,7 @@
 [
-  mcdo: {
-    id: 1
+  {
+    id: "mcdo",
+    name: "McDonald's",
     description: "mcdelivery po!",
     menu: {
       mcChicken: 50,
@@ -10,8 +11,9 @@
     }
   },
       
-  jollibee: {
-    id: 2
+  {
+    id: "jollibee",
+    name: "Jollibee",
     description: "pang joy",
     menu: {
       chickenJoy: 49,
@@ -20,8 +22,9 @@
     }
   },
 
-  shakeys: {
-    id: 3
+  {
+    id: "shakeys",
+    name: "Shakey's",
     description: "shaka shaka",
     menu: {
       hawaiian: 129,
