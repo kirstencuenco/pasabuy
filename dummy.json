@@ -1,35 +1,35 @@
 [
   {
-    id: "mcdo",
-    name: "McDonald's",
-    description: "mcdelivery po!",
-    menu: {
-      mcChicken: 50,
-      burgerMcDo: 25,
-      chickSpag: 70,
-      mcFlurry: 29,
+    "id": "mcdo",
+    "name": "McDonald's",
+    "description": "mcdelivery po!",
+    "menu": {
+      "mcChicken": 50,
+      "burgerMcDo": 25,
+      "chickSpag": 70,
+      "mcFlurry": 29,
     }
   },
       
   {
-    id: "jollibee",
-    name: "Jollibee",
-    description: "pang joy",
-    menu: {
-      chickenJoy: 49,
-      yumBurger: 20,
-      vanillaSundae: 15,
+    "id": "jollibee",
+    "name": "Jollibee",
+    "description": "pang joy",
+    "menu": {
+      "chickenJoy": 49,
+      "yumBurger": 20,
+      "vanillaSundae": 15,
     }
   },
 
   {
-    id: "shakeys",
-    name: "Shakey's",
-    description: "shaka shaka",
-    menu: {
-      hawaiian: 129,
-      managersChoice: 275,
-      shake: 50,
+    "id": "shakeys",
+    "name": "Shakey's",
+    "description": "shaka shaka",
+    "menu": {
+      "hawaiian": 129,
+      "managersChoice": 275,
+      "shake": 50,
     }
   }
 ]
